@@ -1,12 +1,15 @@
+<img src="https://www.sacricketmag.com/wp-content/uploads/2024/11/Champions-Trophy-logo-1024x464.jpg" alt="ICC Champions Trophy logo" width="200">
+
+
 # ICC Champions Trophy - India Chapter  
-📊 *Keeping Tabs on Indian Match Statistics*  
+*Keeping Tabs on Indian Match Statistics*  
 
 ## Overview  
 This project aims to consolidate and analyze data from various sources related to the **ICC Champions Trophy**, specifically focusing on India's performance. It includes datasets, dashboards, and insights derived from sources like **Wikipedia, Google, Cricbuzz, and Kaggle**.  
 
 ---
 
-## 📌 Data Collection  
+## Data Collection  
 | Source     | Description | Method | Link |
 |------------|-------------------------|------------------|--------------------------------------------------|
 | **Wikipedia** | Previous Winners | From Web | [ICC Champions Trophy - Wikipedia](https://en.wikipedia.org/wiki/ICC_Champions_Trophy) |
@@ -16,31 +19,31 @@ This project aims to consolidate and analyze data from various sources related t
 
 ---
 
-## 📂 Project Structure  
-### 📁 Folders  
+## Project Structure  
+### Folders  
 - **Hobbies > Projects** → Project Directory  
 - **Datasets**  
-  - 🏏 **Match-Level Data**  
-  - 🎯 **Ball-by-Ball Data**  
+  - **Match-Level Data**  
+  - **Ball-by-Ball Data**  
 
-### 📊 Dashboard  
+### Dashboard  
 - **Main Thread:** `n464`  
 - **Nodes & Edges Mapped for Analysis**  
 
-### 🔢 Points Table  
+### Points Table  
 - **Source:** Cricbuzz  
 - **Query Type:** Direct Table Extraction  
 
 ---
 
-## 🛠️ Data Extraction Methods  
+## Data Extraction Methods  
 - `From Web` → Wikipedia-based scraping  
 - `Copy & Paste / Web Scraper` → Google Tables  
 - `Direct Table Query` → Cricbuzz Points Table  
 
 ---
 
-## 📌 Markdown & Power BI Syntax Used  
+## Markdown & Power BI Syntax Used  
 - **Markdown Syntax for Titles & Subtitles:**  
   ```md
   # ICC Champions Trophy - India Chapter

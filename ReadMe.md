@@ -1,7 +1,7 @@
 <img src="https://www.sacricketmag.com/wp-content/uploads/2024/11/Champions-Trophy-logo-1024x464.jpg" alt="ICC Champions Trophy logo" width="200">
 
 
-# ICC Champions Trophy - India Chapter  
+# ICC Champions Trophy - Semis and Final Results Outcome
 *Keeping Tabs on Indian Match Statistics*  
 
 ## Overview  

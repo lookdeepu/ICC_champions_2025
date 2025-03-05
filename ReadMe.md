@@ -17,6 +17,7 @@ This project aims to consolidate and analyze data from various sources related t
 | **Kaggle** | Cricket Dataset (1998-2017) | Direct Download | [ICC Champions Trophy Cricket Dataset](https://www.kaggle.com/) |
 | **Cricbuzz** | Points Table | Direct Table Query | [ICC Champions Trophy 2025 Points Table](https://www.cricbuzz.com/) |
 
+
 ---
 
 ## Project Structure  

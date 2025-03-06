@@ -43,7 +43,7 @@ This project aims to consolidate and analyze data from various sources related t
 - `Direct Table Query` → Cricbuzz Points Table
 
 
-commit points 
+
 ---
 
 ## Markdown & Power BI Syntax Used  

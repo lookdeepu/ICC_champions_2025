@@ -2,7 +2,7 @@
 
 
 # ICC Champions Trophy - Semis and Final Results Outcome
-*Keeping Tabs on Indian Match Statistics*  
+ 
 
 ## Overview  
 This project aims to consolidate and analyze data from various sources related to the **ICC Champions Trophy**, specifically focusing on India's performance. It includes datasets, dashboards, and insights derived from sources like **Wikipedia, Google, Cricbuzz, and Kaggle**.  

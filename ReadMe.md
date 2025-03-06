@@ -40,8 +40,10 @@ This project aims to consolidate and analyze data from various sources related t
 ## Data Extraction Methods  
 - `From Web` → Wikipedia-based scraping  
 - `Copy & Paste / Web Scraper` → Google Tables  
-- `Direct Table Query` → Cricbuzz Points Table  
+- `Direct Table Query` → Cricbuzz Points Table
 
+
+commit points 
 ---
 
 ## Markdown & Power BI Syntax Used  
